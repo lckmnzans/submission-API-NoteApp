@@ -1,2 +1,3 @@
 # API Notes App
-Ini merupakan aplikasi back-end untuk aplikasi Notes sederhana yang merupakan proyek akhir Dicoding
+Ini merupakan API untuk aplikasi Notes sederhana dari Dicoding
+Dibuat menggunakan NodeJS serta Hapi Framework
